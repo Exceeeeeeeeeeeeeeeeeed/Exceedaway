@@ -24,5 +24,4 @@ If you need any help with understanding our code, join the [official Discord ser
 
 ## Licensing
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-You are allowed to fork the project and distribute it, if you give credit. You may not sell any code protected by the license.
-Not all source files are protected by this license - Some third party libraries (Chakra, DX11) may be under different copyright.
+You are allowed to fork the project and distribute it, if you give credit. and yeah enjoy.
